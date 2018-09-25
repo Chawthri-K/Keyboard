@@ -10,7 +10,7 @@ At the moment, Version 1.0 is complete. The only thing that was custom built on 
 
 I initially planned to design a board for it... and I did (files are in this repo), but I quickly realized that i had know way to guarantee that my design would work. Considering the fact that printing the board would be pretty expensive, I decided I should make a proof of concept board instead (with only four keys).  At the moment I haven't assembled it, tested it, or wrote the code, but the board itself has been designed and printed.
 
-![123](https://photos.app.goo.gl/HhQjE3u4L6N5KrRc6)
+![123](https://imgur.com/C4RuTXm)
 
 Continuing on with the V1.0. The entire board is completely assembled, it required all the machining skills I mentioned above, as well some basic THT soldering for the switches. 
 
