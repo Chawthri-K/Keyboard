@@ -14,6 +14,6 @@ I initially planned to design a board for it... and I did (files are in this rep
 
 Continuing on with the V1.0. The entire board is completely assembled, it required all the machining skills I mentioned above, as well some basic THT soldering for the switches. 
 
-![sdf](https://lh3.googleusercontent.com/_S2f9LDzNpcXLkGcwAc9h-Yf0Iw3V3L5PDAeWCVfWTOJPbZrbm9mg5F33GCd8ttupxX7XRBRmtMfiwoA5KsZJtOraM_3ybFHeZU4wXymeS6vZgxUIqlnnlkGmQmnrT1mAIynqXSjeyXHHUhsZdj1e0WRfa6dKR1XxHxGqbSHemjBU_Z8nJahEbUTeUZgx41m1T2FRIJKZcoC7GroWU7e2iyioK3CEXBBnpH8CmU4rnozHCxBtQbLkhW1CWtYmUwIH6io6udtAjwroQu6ycSCvfBsSbaFPNVF7KrKI4NbIexU-tfB0WdVKQRrA9VSKOugLcNDtkSS1FbvrBcU2cwPgZGrhBRwCSKwEzMtxbXFVx1lUjW84jucdRb-o5HI5vwMsG9BRwm2CLqJCQNseI1KnRbM8R9uvcmC5A0ZYVdqqrYz5H543LovAMaX48sHx74lkLez8JycT45GsDgeQwJIJEcfzKauQcw7XHtH46rSdcNVV9RfjR5LAMhRMOnSjLap4BT0ism7Sotqd9YiJxx2cDec3HFRVzW-CLMdhNSdsHo-2-sB0FO24ri9PlN30UbkhxEydnZXvZifjBopR6Ug2OJ-rHx9ogJhDsESH9idN7fdR5xVnL7JEM5HUFFLuIHj=w1824-h862-no)
+![sdf](https://imgur.com/SETgaoJ.png)
 
 Above is the fully assembled V1.0 keyboard. The switches, PCB, and keycaps were all purchased online, and the wooden enclosure was milled by me from cedar wood. As stated above, the final iteration of the keyboard will look similar to a typewriter, and everything will be designed and manufactured by me, apart from the actual switches themselves. My next steps are to test out my 4 button proof of concept, so I can make changes as necessary, and build V2.0 using my own custom PCB and software.
