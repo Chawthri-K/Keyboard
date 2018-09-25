@@ -10,7 +10,7 @@ At the moment, Version 1.0 is complete. The only thing that was custom built on 
 
 I initially planned to design a board for it... and I did (files are in this repo), but I quickly realized that i had know way to guarantee that my design would work. Considering the fact that printing the board would be pretty expensive, I decided I should make a proof of concept board instead (with only four keys).  At the moment I haven't assembled it, tested it, or wrote the code, but the board itself has been designed and printed.
 
-![123](https://lh3.googleusercontent.com/l0yYHMWHNc5nIsmJhEFXFvswiU1XWnKE9B9mKBe0yGEHQbNEZViUe_LIXLqy4CcW-KPoPPqCVoZE7VofLUo_T7F8y0M4G66BtpJ9C69xFFahzizetyAfnj9SNkIZ6p5K63rpvyXG0mmFxKxl80NQz__Si-9wjqZvLcaXILWghZfA6MmmKhc58iCUu1m-ItmBKQjaFmrtvPOw-s48cKUNn73_KzwIKKtUaQtx0qFCw0wSxdb7DLpD-Rvf72HJ8G0b_iBgQHuy4OrzZDmliV9ReERlHsEWhdzIvK1S9q4AXCh0vvDYQDQNH9WaDK6Qjid0uUDz5Wmj2v0trS-Cr6ikLRhz0yVzfcex7PjBvVXjDnhAoyi8FpYHgnsfwVeSXHfuumpY-in-KiRLwFKZ0uaWZyIMetRNEeSqsUtFiXRluFcAZSom6CJkqoaeyMMxiC3r2F8ObkiHEti0qOx1qgY1fRR6KJ1gM-ZuTuDCCMzef-RStuZOQ9irmeOw9q8Q5xsnbjLBD-7w09MfcQFPrC95keGUnGxwWJHuDrTBfrPFbhiudaklNM3kG0fpHeRLA6k20FGKITUQ6QjKSRMTdFWin8jN1Pcis_fGyX1OnM1mGwPzZ_nTl8AXvFsmzjiZzK3b=w1510-h578-no)
+![123](https://photos.app.goo.gl/HhQjE3u4L6N5KrRc6)
 
 Continuing on with the V1.0. The entire board is completely assembled, it required all the machining skills I mentioned above, as well some basic THT soldering for the switches. 
 
